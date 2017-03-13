@@ -1,0 +1,17 @@
+命令稿啟動於 2017年03月13日 (週一) 10時19分42秒
+]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ whoami : pwd
+whoami: 出現多餘的參數 ‘:’
+Try 'whoami --help' for more information.
+]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ whoami : pwd[1Ppwd[1Ppwd[1Ppwd;pwd
+chu
+/home/chu/lab1
+]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ gt[K[Kgit config -|
+> git clonr[Ke http://[K[K[Ks://github.com/ChuChhu[K[Kuuu [K/lab1.git
+Cloning into 'lab1'...
+error: key does not contain a section: -
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;chu@chu-VirtualBox: ~/lab1[01;32mchu@chu-VirtualBox[00m:[01;34m~/lab1[00m$ exit
+
+命令稿已於 2017年03月13日 (週一) 10時23分32秒
+ 完成
